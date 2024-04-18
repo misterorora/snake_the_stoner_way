@@ -1,0 +1,12 @@
+﻿  Schlange.cpp
+  Schnecke.cpp
+D:\projects\snake\abgabe\Snake_Stoner_Way\Snake_Stoner_Way\Schnecke.cpp(17,73): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+D:\projects\snake\abgabe\Snake_Stoner_Way\Snake_Stoner_Way\Schnecke.cpp(17,37): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+D:\projects\snake\abgabe\Snake_Stoner_Way\Snake_Stoner_Way\Schnecke.cpp(21,13): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+D:\projects\snake\abgabe\Snake_Stoner_Way\Snake_Stoner_Way\Schnecke.cpp(22,13): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+  Spiel.cpp
+  main.cpp
+  Code wird generiert...
+  Snake_Stoner_Way.vcxproj -> D:\projects\snake\abgabe\Snake_Stoner_Way\x64\Debug\Snake_Stoner_Way.exe
+  Der Befehl "pwsh.exe" ist entweder falsch geschrieben oder
+  konnte nicht gefunden werden.

@@ -1,0 +1,3 @@
+﻿  Snake_Stoner_Way.vcxproj -> D:\projects\snake\abgabe\Snake_Stoner_Way\x64\Release\Snake_Stoner_Way.exe
+  Snake_Stoner_Way.vcxproj -> D:\projects\snake\abgabe\Snake_Stoner_Way\x64\Release\Snake_Stoner_Way.pdb (Partielle -> Vollständige PDB)
+D:\projects\snake\abgabe\Snake_Stoner_Way\x64\Release\Snake_Stoner_Way.pdb : fatal error CMF1107: Die PDB-Eingabedatei wird nicht durch "/DEBUG:fastlink" generiert.
