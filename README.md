@@ -7,7 +7,7 @@ Willkommen zu **Snake the Stoner Way!** – Ein klassisches Snake-Spiel als Desk
 Um das Spiel zu starten, führe einfach die ausführbare Datei aus. 
 Die Build-Version ist für Windows-Betriebssysteme optimiert. 
 
-Alternativ kannst du das Spiel auch direkt aus VS Code oder Visual Studio kompilieren. 
+Alternativ kannst du das Spiel auch direkt aus Visual Studio kompilieren. 
 Stelle sicher, dass [Raylib](https://www.raylib.com/) gemäß den Standardoptionen installiert ist. 
 Klone dann das Repository und führe den Code aus.
 
