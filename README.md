@@ -15,10 +15,10 @@ Klone dann das Repository und führe den Code aus.
 
 Das Spiel ist einfach zu spielen und erfordert nur die Verwendung der Pfeiltasten:
 
-- *Pfeiltaste nach oben*: Bewegt die Schlange nach oben.
-- *Pfeiltaste nach unten*: Bewegt die Schlange nach unten.
-- *Pfeiltaste nach links*: Bewegt die Schlange nach links.
-- *Pfeiltaste nach rechts*: Bewegt die Schlange nach rechts.
+- *Pfeiltaste nach oben oder W*: Bewegt die Schlange nach oben.
+- *Pfeiltaste nach unten oder S*: Bewegt die Schlange nach unten.
+- *Pfeiltaste nach links oder L*: Bewegt die Schlange nach links.
+- *Pfeiltaste nach rechts R*: Bewegt die Schlange nach rechts.
 
 - *Escape*: Das Spiel wird beendet.
 
